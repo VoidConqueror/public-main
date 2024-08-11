@@ -1,0 +1,2 @@
+# public-main
+gm world
